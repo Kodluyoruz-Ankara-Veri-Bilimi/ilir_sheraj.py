@@ -56,7 +56,7 @@ class Modeling():
     def accuracy():
     #measure the predictive power of the model
     
-class Visuals():
+class Communication():
     def __init__(self):
         
     def boxplot(self,):
